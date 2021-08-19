@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+    
+}
+
+header {
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: red;
+    color: black;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+nav {
+    margin-right: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+}
+
+nav u1 li:hover {
+    background: blanchedalmond;
+    box-shadow: 0 0 16px;
+}
+
+
+
+header li {
+    display: inline-block;
+    padding-right: 15px;
+    font-size: 24px;
+}
+
+section {
+    color: white;
+    text-align: center;
+}
+
+.jboy {
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+aside {
+    margin-top: 40px;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    margin-top: 40px;
+}
+
+main {
+    background-color: black;
+    color: white;
+}
+
+article a {
+    display: block;
+    max-width: 1040px;
+    padding: 20px;
+    margin: auto;
+}
+
+article a img {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: red;
+    color: black;
+    padding: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
