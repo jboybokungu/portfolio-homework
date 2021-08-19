@@ -1,12 +1,12 @@
 # portfolio-homework
 
-[link to LIVE site](https://jboybokungu.github.io/homework-refactor/)
+[link to LIVE site](https://jboybokungu.github.io/portfolio-homework/)
 
 
 
 
 ## Description
-The link above takes you to a webpage that tells you everything you need to know me, my work ,and my contact information.
+The link above takes you to a webpage that tells you everything you need to know about me, my work ,and my contact information.
 
 
 
@@ -15,7 +15,10 @@ Click on links in the navigation bar and they will take you to the corresponding
 
 
 ## Screenshots
-![homework screenshot](assets/images/homeworkscreenshot.png)
+Screenshots are listed below
+
+![homework screenshot](images/codescreenshot.png)
+![webpage screenshot](images/webpage-screenshot.png)
 
 
 ## Languages 
