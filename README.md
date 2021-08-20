@@ -22,4 +22,4 @@ Screenshots are listed below
 
 
 ## Languages 
-HTML and CSS
+HTML and css
