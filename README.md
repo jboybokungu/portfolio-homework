@@ -17,8 +17,10 @@ Click on links in the navigation bar and they will take you to the corresponding
 ## Screenshots
 Screenshots are listed below
 
-![homework screenshot](images/codescreenshot.png)
-![webpage screenshot](images/webpage-screenshot.png)
+![homework screenshot](images/planner.png)
+![webpage screenshot](images/password.png)
+![webpage screenshot](images/project.png)
+
 
 
 ## Languages 
