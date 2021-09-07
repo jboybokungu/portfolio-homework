@@ -12,7 +12,7 @@ body {
 header {
     padding: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: red;
+    background-color:red;
     color: black;
     margin-bottom: 20px;
 }
@@ -56,6 +56,14 @@ section {
 aside {
     margin-top: 40px;
     text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+#work {
+    margin-bottom: 20px;
 }
 
 div {
