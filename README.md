@@ -17,9 +17,9 @@ Click on links in the navigation bar and they will take you to the corresponding
 ## Screenshots
 Screenshots are listed below
 
-![homework screenshot](images/planner.png)
-![webpage screenshot](images/password.png)
-![webpage screenshot](images/project.png)
+![homework screenshot](images/keyboard.png)
+![webpage screenshot](images/employeescreenshot.png)
+![webpage screenshot](images/notetaker.png)
 
 
 
